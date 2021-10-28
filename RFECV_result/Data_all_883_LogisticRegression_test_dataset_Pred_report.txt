@@ -1,0 +1,64 @@
+RFECV Use Dataset : (hands-on)KaggleTC_3000 
+Use features : all_883 feature 
+Use classifer: LogisticRegression(max_iter=10000, multi_class='ovr', n_jobs=10, random_state=1,
+                   solver='sag') 
+
+Optimal number of features : 883 
+------------------------------------------------------
+Use test Dataset : (hands-on)KaggleTC_3000_test.csv 
+Classification report : 
+               precision    recall  f1-score   support
+
+     Harmful       0.89      0.88      0.89       300
+ non-Harmful       0.88      0.89      0.89       300
+
+    accuracy                           0.89       600
+   macro avg       0.89      0.89      0.89       600
+weighted avg       0.89      0.89      0.89       600
+ 
+Accuracy_score : 0.89 
+Precision_score :	 0.88 
+Recall_score :		 0.89 
+F1 score :		 0.89 
+Confusion matrix: 
+ [[268  32]
+ [ 35 265]] 
+------------------------------------------------------
+Use test Dataset : HNC_test.csv 
+Classification report : 
+               precision    recall  f1-score   support
+
+     Harmful       0.00      0.00      0.00       845
+ non-Harmful       0.50      1.00      0.67       845
+
+    accuracy                           0.50      1690
+   macro avg       0.25      0.50      0.33      1690
+weighted avg       0.25      0.50      0.33      1690
+ 
+Accuracy_score : 0.5 
+Precision_score :	 0.5 
+Recall_score :		 1.0 
+F1 score :		 0.67 
+Confusion matrix: 
+ [[845   0]
+ [845   0]] 
+------------------------------------------------------
+Use test Dataset : SOCC_test.csv 
+Classification report : 
+               precision    recall  f1-score   support
+
+     Harmful       0.67      0.09      0.16        43
+ non-Harmful       0.51      0.95      0.67        43
+
+    accuracy                           0.52        86
+   macro avg       0.59      0.52      0.41        86
+weighted avg       0.59      0.52      0.41        86
+ 
+Accuracy_score : 0.52 
+Precision_score :	 0.51 
+Recall_score :		 0.95 
+F1 score :		 0.67 
+Confusion matrix: 
+ [[41  2]
+ [39  4]] 
+------------------------------------------------------
