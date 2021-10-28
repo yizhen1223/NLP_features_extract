@@ -136,13 +136,13 @@ from UtilWordEmbedding import DocModel
     2. **(dm_d2c)Data.csv**
     3. **(target_labels)Data.csv**
 ---
-### 參考來源
-兩種詞向量特徵表示形式的取得，很大程度參考Tom Lin文章以其[GitHub範例Code](https://github.com/TomLin/MeetUp)，其中使用的套件工具與流程，在此表達萬分的感謝！
-[Tom Lin - [NLP]不同詞向量在文本分類上的表現與實作](https://medium.com/ai-academy-taiwan/nlp-%E4%B8%8D%E5%90%8C%E8%A9%9E%E5%90%91%E9%87%8F%E5%9C%A8%E6%96%87%E6%9C%AC%E5%88%86%E9%A1%9E%E4%B8%8A%E7%9A%84%E8%A1%A8%E7%8F%BE%E8%88%87%E5%AF%A6%E4%BD%9C-e72a2daecfc)
+## 參考來源
+* 兩種詞向量特徵表示形式的取得，很大程度參考Tom Lin文章以其[GitHub範例Code](https://github.com/TomLin/MeetUp)，其中使用的套件工具與流程，在此表達萬分的感謝！
+* [Tom Lin - [NLP]不同詞向量在文本分類上的表現與實作](https://medium.com/ai-academy-taiwan/nlp-%E4%B8%8D%E5%90%8C%E8%A9%9E%E5%90%91%E9%87%8F%E5%9C%A8%E6%96%87%E6%9C%AC%E5%88%86%E9%A1%9E%E4%B8%8A%E7%9A%84%E8%A1%A8%E7%8F%BE%E8%88%87%E5%AF%A6%E4%BD%9C-e72a2daecfc)
 
 
 
 ---
 
-### 下一階段：[合併特徵類別](https://github.com/yizhen1223/NLP_features_extract/blob/main/README_merge_features.md)
+## 下一階段：[合併特徵類別](https://github.com/yizhen1223/NLP_features_extract/blob/main/README_merge_features.md)
 
