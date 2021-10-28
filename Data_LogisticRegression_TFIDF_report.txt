@@ -1,0 +1,24 @@
+Use Dataset : (hands-on)KaggleTC_3000 
+Use model : TFIDF 
+LogisticRegression:
+	Mean accuracy on development set	= 0.84 (+/- 0.009)
+
+classification report: 
+               precision    recall  f1-score   support
+
+ non-Harmful       0.85      0.88      0.87       300
+     Harmful       0.88      0.85      0.86       300
+
+    accuracy                           0.86       600
+   macro avg       0.87      0.86      0.86       600
+weighted avg       0.87      0.86      0.86       600
+ 
+	'balanced_Accuracy on evaluation set		= 0.86
+	(weighted)Precision on evaluation set		= 0.87
+	(weighted)Recall on evaluation set		= 0.86
+	(weighted)F1_score on evaluation set		= 0.86
+	confusion matrix: 
+ [[265  35]
+ [ 46 254]] 
+------------------------------------------------------------------
+
