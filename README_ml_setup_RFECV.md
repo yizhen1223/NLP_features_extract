@@ -1,6 +1,6 @@
 # 文本特徵擷取技術筆記－建立文本分類模型
 #### 論文名稱：應用機器學習與深度學習方法在網路傷害性新聞與惡意評論偵測辨識上之研究
-### 上一階段：切分訓練集與測試集
+### 上一階段：[切分訓練集與測試集](https://github.com/yizhen1223/NLP_features_extract/blob/main/README_split_train_test.md)
 
 ---
 **目的**
@@ -144,8 +144,8 @@ pip install pandas
     ```
 
 * **輸出檔案**
-    **1. all_883_LogisticRegression_OptimalFeature_list.csv
-    2. all_883_test_dataset_Pred_report.txt
-    3. all_883_OptimalFeature_model.pkl**
+1. all_883_LogisticRegression_OptimalFeature_list.csv
+2. all_883_test_dataset_Pred_report.txt
+3. all_883_OptimalFeature_model.pkl**
 
 
