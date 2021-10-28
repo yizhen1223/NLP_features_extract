@@ -144,5 +144,5 @@ from UtilWordEmbedding import DocModel
 
 ---
 
-### 下一階段：[合併特徵類別](https://hackmd.io/@yizhenchen/BJlLt-wLt)
+### 下一階段：[合併特徵類別](https://github.com/yizhen1223/NLP_features_extract/blob/main/README_merge_features.md)
 
