@@ -1,6 +1,6 @@
 # 文本特徵擷取技術筆記－情感特徵類別
 #### 論文名稱：應用機器學習與深度學習方法在網路傷害性新聞與惡意評論偵測辨識上之研究
-### 上一階段：[取得基礎特徵類別](https://hackmd.io/@yizhenchen/r1ZhDXBIF)
+### 上一階段：[取得基礎特徵類別](https://github.com/yizhen1223/NLP_features_extract/blob/main/README_get_simple_features.md)
 
 ---
 **目的**
@@ -205,4 +205,4 @@ library(textdata)
 
 ---
 
-### 下一階段：[合併特徵類別](https://hackmd.io/@yizhenchen/BJlLt-wLt)
+### 下一階段：[合併特徵類別](https://github.com/yizhen1223/NLP_features_extract/blob/main/README_merge_features.md)
