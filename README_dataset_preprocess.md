@@ -128,5 +128,5 @@ pip install pandas
     **(clean)Data.csv**
 ---
 
-### 下一階段：[取得基礎特徵類別](https://hackmd.io/@yizhenchen/r1ZhDXBIF)、[取得BERT向量特徵類別](https://hackmd.io/@yizhenchen/HyvnGZP8F)、取得詞袋特徵類別
+### 下一階段：[取得基礎特徵類別](https://github.com/yizhen1223/NLP_features_extract/blob/main/README_get_simple_features.md)、[取得BERT向量特徵類別](https://github.com/yizhen1223/NLP_features_extract/blob/main/README_get_BERT_representationModel.md)、[取得詞袋特徵類別](https://github.com/yizhen1223/NLP_features_extract/blob/main/README_set_bow_model.md)
 
