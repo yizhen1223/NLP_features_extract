@@ -1,6 +1,6 @@
 # 文本特徵擷取技術筆記－基礎特徵類別
 #### 論文名稱：應用機器學習與深度學習方法在網路傷害性新聞與惡意評論偵測辨識上之研究
-### 上一階段：[資料清理](https://hackmd.io/@yizhenchen/rJZm-CILt)（基礎斷詞與標點符號清除）
+### 上一階段：[資料清理](https://github.com/yizhen1223/NLP_features_extract/blob/main/README_dataset_preprocess.md)（基礎斷詞與標點符號清除）
 
 ---
 **目的**
@@ -96,5 +96,5 @@ pip install pandas
     **(simple)(clean)Data.csv**
 ---
 
-### 下一階段：[取得情感特徵類別](https://hackmd.io/@yizhenchen/Hkh3-hS8K)
+### 下一階段：[取得情感特徵類別](https://github.com/yizhen1223/NLP_features_extract/blob/main/README_tidy_text_sentimentr.md)
 
