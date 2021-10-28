@@ -1,6 +1,6 @@
 # 文本特徵擷取技術筆記－合併特徵類別
 #### 論文名稱：應用機器學習與深度學習方法在網路傷害性新聞與惡意評論偵測辨識上之研究
-### 上一階段：取得[情感](https://hackmd.io/@yizhenchen/Hkh3-hS8K)、[詞向量](https://hackmd.io/@yizhenchen/ByIo9ePIF)、[BERT向量](https://hackmd.io/@yizhenchen/HyvnGZP8F)特徵類別
+### 上一階段：取得[情感](https://github.com/yizhen1223/NLP_features_extract/blob/main/README_tidy_text_sentimentr.md)、[詞向量](https://github.com/yizhen1223/NLP_features_extract/blob/main/README_get_w2c_d2c.md)、[BERT向量](https://github.com/yizhen1223/NLP_features_extract/blob/main/README_get_BERT_representationModel.md)特徵類別
 
 ---
 **目的**
@@ -31,7 +31,7 @@
 
 1. 導入所需資料集
     ```python=
-    dir_path = '\\Dataset\\'
+    dir_path = 'Dataset\\'
     df_features = pd.read_csv(dir_path+'(tidytext)(sentimentr)(simple)(clean)Data.csv')
     df_w_m_d2c= pd.read_csv(dir_path+ '(word_mean_d2c)Data.csv', header=None)
     df_d2c = pd.read_csv(dir_path+'(dm_d2c)Data.csv', header=None)
@@ -72,4 +72,4 @@
     **(all)Data.csv**
 ---
 
-### 下一階段：建立傷害性文本分類模型
+### 下一階段：[建立傷害性文本分類模型](https://github.com/yizhen1223/NLP_features_extract/blob/main/README_ml_setup_RFECV.md)
